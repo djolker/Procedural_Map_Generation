@@ -7,7 +7,6 @@ public class MapControls : MonoBehaviour {
 
 	public Vector3 lastPiece;
 
-
 	// Use this for initialization
 	void Start () {
 		Debug.Log (GameObject.Find ("Start").collider.bounds.size);

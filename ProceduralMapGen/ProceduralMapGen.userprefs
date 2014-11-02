@@ -1,14 +1,14 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MapControls.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MapScript.cs">
     <Files>
-      <File FileName="Assets\MapControls.cs" Line="38" Column="9" />
+      <File FileName="Assets\MapControls.cs" Line="8" Column="27" />
+      <File FileName="Assets\Section.cs" Line="8" Column="1" />
+      <File FileName="Assets\MapScript.cs" Line="34" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="C:\Users\DJ\Documents\GitHub\Procedural_Map_Generation\ProceduralMapGen\Assets\MapControls.cs" line="29" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
