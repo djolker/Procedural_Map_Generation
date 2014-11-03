@@ -16,18 +16,11 @@ public class MapScript : MonoBehaviour {
             {
                 case XmlNodeType.Element:
                     Debug.Log(reader.Name);
-
-                    break;
-
-                case XmlNodeType.Text:
-                    Debug.Log(reader.Value);
-                    break;
+                    
+                break;
             }
         }
 	}
 	
-	// Update is called once per frame
-	void Update () {
 	
-	}
 }

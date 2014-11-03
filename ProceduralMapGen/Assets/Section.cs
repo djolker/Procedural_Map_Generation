@@ -6,9 +6,8 @@ public class Section {
     public bool[] openings = new bool[4];
     public GameObject zone;
 
-    Section(GameObject z, bool[] ends)
+    Section()
     {
-        openings = ends;
-        zone = z;
+
     }
 }

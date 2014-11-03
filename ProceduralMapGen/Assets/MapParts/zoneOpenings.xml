@@ -1,11 +1,11 @@
 <pieces>
-	<section id="Start">
-		<a>"True"</a>
+	<section>Start
+		<a>True</a>
 		<b>False</b>
 		<c>False</c>
 		<d>False</d>
 	</section>
-	<section id="Hall">
+	<section>Hall
 		<a>True</a>
 		<b>False</b>
 		<c>True</c>
